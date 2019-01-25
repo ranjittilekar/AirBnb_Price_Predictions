@@ -1,0 +1,1 @@
+model,run_time,random_state,test_size,iterations,depth,learning_rate,loss_function,logging_level,continuous_variables,categorical_variables,submission_filename,best_score,best_iteration,train_R2,test_R2,train_RMSE,test_RMSE,cv_train_RMSE,cv_test_RMSE
